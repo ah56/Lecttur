@@ -1,10 +1,13 @@
-h2.intro{
+
+.intro{
   color: blue;
 }
-p.intro{
-  color: yellow;
-}
-img.intro{
+img.introduction{
   width: 20%;
   height: auto;
+}
+
+.intros{
+  color: red;
+  font-family: serif;
 }
